@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "hello guys welcome to Jenkins session" 
+echo "hello guys welcome to Jenkins Classes" 
 echo "Hello guys welcome to Git session"  
 echo "Hello guys welcome to Git session"  
 echo "Hello guys welcome to Git session" 
