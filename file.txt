@@ -1,10 +1,9 @@
 
 Hello Everyone!!
 
-<<<<<<< HEAD
 welcome to git_hub !! 
-=======
+
 welcome to git_hub !!
 
 Thank you !!
->>>>>>> a1e4a4ac12892db81fe22400d6103e6d4d546029
+
